@@ -3,6 +3,8 @@
 
 # HealthManager 2.0
 
+[![Join the chat at https://gitter.im/cfibmers/health_manager](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cfibmers/health_manager?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Health Manager monitors the state of the applications and ensures that started
 applications are indeed running, their versions and number of
 instances correct.
